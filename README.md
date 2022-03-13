@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjf-inisial
-- 👀 I’m interested in Java-Android Coding
-- 🌱 I’m currently learning Java-Android
+- 👀 I’m interested in Java and Kotlin Android Coding
+- 🌱 I’m currently learning Java and Kotlin Android
 - 💞️ I’m looking to collaborate on making some Android Apps, Android Library, or Java Library
 - 📫 How to reach me...
 
