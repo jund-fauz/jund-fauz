@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjf-inisial
+- 👋 Hi, I’m @jund-fauz
 - 👀 I’m interested in Java and Kotlin Android Coding
 - 🌱 I’m currently learning Java and Kotlin Android
 - 💞️ I’m looking to collaborate on making some Android Apps, Android Library, or Java Library
