@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jund-fauz
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learning programming & build an application
 - 🌱 I’m currently learning Front-End Framework (ReactJS for now) & try to make Back-End API
 - 🏗️ I'm currently working on two web project for my school's organization
 - 💞️ I’m looking to collaborate on making some Website & WebApps
