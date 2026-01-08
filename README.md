@@ -71,5 +71,5 @@ A meal planning web application that helps users organize their weekly meals and
 **Description:**  
 A document numbering application that streamlines the creation and management of official letters for organizations and company.
 
-🔗 Demo: https://nomor-surat.vercel.app 
+🔗 Demo: https://nomor-surat.vercel.app <br>
 📂 Repo: https://github.com/jund-fauz/nomor-surat
